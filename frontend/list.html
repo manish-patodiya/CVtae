@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <title> </title>
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <link rel="stylesheet"
+            href="bootstrap/bootstrap.min.css">
+        <script
+            src="jquery/jquery.min.js">
+        </script>
+        <script
+            src="jquery/popper.min.js">
+        </script>
+        <script
+            src="bootstrap/bootstrap.min.js">
+        </script>
+        <link rel="stylesheet"
+            href="jquery/dataTables.min.css">
+        <script
+            src="jquery/dataTables.min.js">
+        </script>
+        <link
+            href="font-awesome/font-awesome.min.css"
+            rel="stylesheet">
+
+        <link href="css/style.css"
+            rel="stylesheet">
+
+        <link href="css/pop.css"
+            rel="stylesheet">
+
+    </head>
+    <body>
+        <div class="container">
+            <div class="row" style="padding: 25px 0;">
+                <a class="nav-link animate-charcter" href="#">CVtae</a>
+            </div>
+            <div class="py-3">
+                <span class="active chip" href="#" onclick="getdetalis('all');">All</span>
+                <span class="chip" href="#" onclick="getdetalis('fsd');">Full Stack Developer</span>
+                <span class="chip" href="#" onclick="getdetalis('bd');">Backend Developer</span>
+                <span class="chip" href="#" onclick="getdetalis('fd');">Frontend Developer</span>
+                <span class="chip" href="#" onclick="getdetalis('and');">Android Developer</span>
+                <span class="chip" href="#" onclick="getdetalis('mgr');">Manager</span>
+                <span class="chip" href="#" onclick="getdetalis('tch');">Teacher</span>
+                <span class="chip" href="#" onclick="getdetalis('act');">Accountant</span>
+            </div>
+            <div class="row py-5">
+                <div class="col-12">
+                    <table id="tbl-emp"
+                        class="table table-hover responsive nowrap"
+                        style="width:100%">
+                        <thead>
+                            <tr>
+                                <th>Image</th>
+                                <th>Name</th>
+                                <th>Gender</th>
+                                <th>Skills</th>
+                                <th>Date of Birth</th>
+                                <th>Location</th>
+                            </tr>
+                        </thead>
+                        <tbody></tbody>
+                    </table>
+                </div>
+            </div>
+        </div>
+        <script src="js/list.js"></script>
+    </body>
+</html>

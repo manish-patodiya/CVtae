@@ -1,0 +1,19 @@
+fname,lname,DOB,Skillls,Gender,City,State
+Sophia,Davis,3/25/1991,"Team Building, Language Instruction, Budgeting, Swift, jQuery, Bootstrap, ASP.NET",Male,Toronto,Ontario
+Lucas,Baker,12/17/1988,"Project Management, Curriculum Development",Female,Paris,ÃŽle-de-France
+Ella,Mitchell,5/30/1983,"Leadership, Art Education, Flutter, Vue.js, Sass, Express.js",Female,Sydney,New South Wales
+Noah,Reed,9/14/1994,"Strategic Planning, C#, PHP, Angular, Python (Django)",Female,Tokyo,Tokyo Metropolis
+Olivia,Turner,7/2/1990,"Financial Analysis, Auditing, Financial Reporting,Tax Planning",Male,London,England
+Liam,Anderson,2/25/1985,"Java, HTML, CSS, Node.js",Male,Berlin,Berlin
+Charlotte,Wilson,8/8/1987,"Data analysis, feature engineering, machine learning, Deep learning,Prompt engineering, synthetic data generation",Female,Rome,Lazio
+Samuel,King,1/11/1993,"Native, Flutter,kotlin,java",Male,Beijing,Beijing Municipality
+Emma,Harris,4/4/1982,"MongoDB, Angular,ExpressJS ,NodeJS",Male,Dubai,Dubai Emirate
+Ava,Scott,11/19/1986,"MongoDB,ExpressJs, ReactJS,NodeJS",Female,Cairo,Cairo Governorate
+Henry,Martinez,6/27/1995,"Data analysis, feature engineering, machine learning, Python",Male,Nairobi,Nairobi County
+Ethan,Robinson,10/10/1989,"Html, CSS,Javascript,PHP, Mysql",Male,Mumbai,Maharashtra
+Mia,Turner,12/15/1991,"java, SpringBoot,php, laravel",Male,Rio de Janeiro,Rio de Janeiro State
+Grace,Davis,7/20/1981,"ReactJS, Nextjs,Angular",Male,Buenos Aires,Buenos Aires Province
+James,Anderson,8/22/1984,"Python, Machine Learning,Synthetic data generation",Male,Cape Town,Western Cape
+Elijah,Turner,2/5/1988,"Flutter, Vue.js, Sass, Express.js",Female,Moscow,Moscow
+Zoe,Mitchell,9/9/1987,"Swift, jQuery, Bootstrap, Express.js",Female,Seoul,Seoul Special City
+Aria,Scott,4/1/1994,"Java,Springboot, ReactJs,Mongodb",Male,Bangkok,Bangkok
